@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/image/image_cropping_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/image/_objs/image_cropping_calculator_cc_proto/image_cropping_calculator.pb.obj
+/ignore:4221

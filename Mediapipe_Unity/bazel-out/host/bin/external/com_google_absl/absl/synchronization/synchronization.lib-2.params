@@ -1,0 +1,11 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_absl/absl/synchronization/synchronization.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/barrier.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/blocking_counter.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/create_thread_identity.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/per_thread_sem.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/waiter.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/mutex.obj
+bazel-out/host/bin/external/com_google_absl/absl/synchronization/_objs/synchronization/notification.obj
+/ignore:4221

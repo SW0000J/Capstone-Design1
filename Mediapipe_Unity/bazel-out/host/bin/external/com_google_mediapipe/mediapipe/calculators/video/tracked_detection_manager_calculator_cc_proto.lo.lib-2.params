@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/tracked_detection_manager_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/_objs/tracked_detection_manager_calculator_cc_proto/tracked_detection_manager_calculator.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_absl/absl/base/exponential_biased.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/exponential_biased/exponential_biased.obj
+/ignore:4221

@@ -1,0 +1,8 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_github_gflags_gflags/gflags.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_github_gflags_gflags/_objs/gflags/gflags.obj
+bazel-out/host/bin/external/com_github_gflags_gflags/_objs/gflags/gflags_completions.obj
+bazel-out/host/bin/external/com_github_gflags_gflags/_objs/gflags/gflags_reporting.obj
+bazel-out/host/bin/external/com_github_gflags_gflags/_objs/gflags/windows_port.obj
+/ignore:4221

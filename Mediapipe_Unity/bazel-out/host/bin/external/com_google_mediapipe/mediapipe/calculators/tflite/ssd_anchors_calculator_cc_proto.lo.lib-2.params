@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/tflite/ssd_anchors_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/tflite/_objs/ssd_anchors_calculator_cc_proto/ssd_anchors_calculator.pb.obj
+/ignore:4221

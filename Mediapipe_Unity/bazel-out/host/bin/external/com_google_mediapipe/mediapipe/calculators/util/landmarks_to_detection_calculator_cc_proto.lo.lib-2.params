@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/landmarks_to_detection_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/landmarks_to_detection_calculator_cc_proto/landmarks_to_detection_calculator.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_absl/absl/strings/cord.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_absl/absl/strings/_objs/cord/cord.obj
+/ignore:4221

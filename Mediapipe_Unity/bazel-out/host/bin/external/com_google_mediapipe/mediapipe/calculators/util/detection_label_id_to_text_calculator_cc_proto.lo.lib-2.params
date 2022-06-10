@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/detection_label_id_to_text_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/detection_label_id_to_text_calculator_cc_proto/detection_label_id_to_text_calculator.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/internal/callback_packet_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/internal/_objs/callback_packet_calculator_cc_proto/callback_packet_calculator.pb.obj
+/ignore:4221

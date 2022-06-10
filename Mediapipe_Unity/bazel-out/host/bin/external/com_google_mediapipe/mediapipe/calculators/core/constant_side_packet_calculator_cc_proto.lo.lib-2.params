@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/core/constant_side_packet_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/core/_objs/constant_side_packet_calculator_cc_proto/constant_side_packet_calculator.pb.obj
+/ignore:4221

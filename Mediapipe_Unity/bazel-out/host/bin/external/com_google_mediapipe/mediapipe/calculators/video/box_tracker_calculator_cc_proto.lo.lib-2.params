@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/box_tracker_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/_objs/box_tracker_calculator_cc_proto/box_tracker_calculator.pb.obj
+/ignore:4221

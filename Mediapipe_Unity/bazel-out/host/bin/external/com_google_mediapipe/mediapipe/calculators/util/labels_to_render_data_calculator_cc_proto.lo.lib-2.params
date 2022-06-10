@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/labels_to_render_data_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/labels_to_render_data_calculator_cc_proto/labels_to_render_data_calculator.pb.obj
+/ignore:4221

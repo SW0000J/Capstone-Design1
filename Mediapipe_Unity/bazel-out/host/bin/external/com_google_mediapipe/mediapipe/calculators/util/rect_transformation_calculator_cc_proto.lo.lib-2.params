@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/rect_transformation_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/rect_transformation_calculator_cc_proto/rect_transformation_calculator.pb.obj
+/ignore:4221
