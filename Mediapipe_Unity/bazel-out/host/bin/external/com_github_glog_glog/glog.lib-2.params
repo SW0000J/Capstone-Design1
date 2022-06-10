@@ -1,0 +1,12 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_github_glog_glog/glog.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/demangle.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/logging.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/raw_logging.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/signalhandler.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/symbolize.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/utilities.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/vlog_is_on.obj
+bazel-out/host/bin/external/com_github_glog_glog/_objs/glog/port.obj
+/ignore:4221

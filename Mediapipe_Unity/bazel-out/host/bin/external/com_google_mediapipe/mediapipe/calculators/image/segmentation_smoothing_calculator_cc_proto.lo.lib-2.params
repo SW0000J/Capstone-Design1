@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/image/segmentation_smoothing_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/image/_objs/segmentation_smoothing_calculator_cc_proto/segmentation_smoothing_calculator.pb.obj
+/ignore:4221

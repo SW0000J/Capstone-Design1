@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/visibility_copy_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/visibility_copy_calculator_cc_proto/visibility_copy_calculator.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/tflite/tflite_custom_op_resolver_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/tflite/_objs/tflite_custom_op_resolver_calculator_cc_proto/tflite_custom_op_resolver_calculator.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/rect_to_render_scale_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/util/_objs/rect_to_render_scale_calculator_cc_proto/rect_to_render_scale_calculator.pb.obj
+/ignore:4221

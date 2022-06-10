@@ -1,0 +1,9 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_absl/absl/base/base.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/base/cycleclock.obj
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/base/spinlock.obj
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/base/sysinfo.obj
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/base/thread_identity.obj
+bazel-out/host/bin/external/com_google_absl/absl/base/_objs/base/unscaledcycleclock.obj
+/ignore:4221

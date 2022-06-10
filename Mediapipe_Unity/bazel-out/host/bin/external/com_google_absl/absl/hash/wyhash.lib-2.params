@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_absl/absl/hash/wyhash.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_absl/absl/hash/_objs/wyhash/wyhash.obj
+/ignore:4221

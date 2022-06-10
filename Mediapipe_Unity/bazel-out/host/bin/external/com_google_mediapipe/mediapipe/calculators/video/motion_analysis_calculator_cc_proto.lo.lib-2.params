@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/motion_analysis_calculator_cc_proto.lo.lib
+/MACHINE:X64
+bazel-out/host/bin/external/com_google_mediapipe/mediapipe/calculators/video/_objs/motion_analysis_calculator_cc_proto/motion_analysis_calculator.pb.obj
+/ignore:4221
