@@ -1,2 +1,6 @@
-# Capstone-Design1
-Project : Avatar-to-Human Interaction Matching Meta-Learning Based on Metaverse
+# Sparkhu
+
+2022년 1학기 경희대학교 컴퓨터공학과 캡스톤디자인 1
+### 메타버스 기반 실감형 아바타 생성 기술 및 인간 아바타 상호작용 매칭 분산 시스템 개발
+
+※ 본 연구는 과학기술정보통신부 및 정보통신기획평가원의 SW중심대학 사업의 연구결과로 수행되었음 (2017-0-00093) 지도교수: 허의남
